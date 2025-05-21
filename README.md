@@ -16,9 +16,9 @@ Identify the most commonly taught skills within each category to ensure relevanc
 
 - 🗣️ Language Distribution & Preferences
 
-Examine the distribution of languages used for course content.
+    Examine the distribution of languages used for course content.
 
-Determine language preferences for the top 5 categories based on viewer engagement to optimize accessibility and reach.
+    Determine language preferences for the top 5 categories based on viewer engagement to optimize accessibility and reach.
 
 - 📝 Subtitles vs. Viewership
 Explore whether the presence of subtitles affects the number of views, helping improve accessibility and viewer satisfaction.
@@ -29,9 +29,9 @@ Identify the top 3 instructors based on ratings in each category and subcategory
 - ⏱️ Course Duration vs. Views
 Investigate how course length impacts viewer engagement per category/subcategory. Use thresholds:
 
-Fixed month schedules: Max 60 hours/month
+    Fixed month schedules: Max 60 hours/month
 
-Flexible schedules: Up to 200 hours
+    Flexible schedules: Up to 200 hours
 
 - 🧠 Skill Variety vs. Viewership
 Analyze whether a broader variety of skills within a course category/subcategory correlates with higher views, offering insight into curriculum design strategy.
